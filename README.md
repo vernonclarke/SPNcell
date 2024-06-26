@@ -599,8 +599,8 @@ Then simply open the provided `Jupyter Notebook` entitled `Figure 6 analysis.ipy
 
 **Installation**
 
-- For `Anaconda`, download the installer from the [`Anaconda`](https://www.anaconda.com/products/individual#Downloads) download page.
-- For `Miniconda`, visit the [`Miniconda`](https://docs.conda.io/en/latest/miniconda.html) download page.
+- [`Anaconda`](https://www.anaconda.com/products/individual#Downloads) 
+- [`Miniconda`](https://docs.conda.io/en/latest/miniconda.html)
 
 Follow the installation instructions provided on the respective download pages.
 
