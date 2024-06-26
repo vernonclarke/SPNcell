@@ -688,7 +688,7 @@ I expect this error would have been avoided if using the `Anaconda` prompt.
 
 For beginners, the [`GitHub Desktop`](https://desktop.github.com/) is recommended. 
 
-Instructions for cloning a repository using `GitHub Desktop`(https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
+Instructions for cloning a repository using [`GitHub Desktop`](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
 
 ## References
 
