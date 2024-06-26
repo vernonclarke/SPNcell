@@ -16,7 +16,7 @@ A version of this modified code has been published by Day et al., 2024:
 
 The above model can be found here: [`Zenodo`](https://doi.org/10.5281/zenodo.10162265) or [`GitHub`](https://github.com/vernonclarke/SPNfinal/releases/tag/v1.0)
 
-The simulation provided in this repository are part of the manuscript and was used to create Figure 6 of this manuscript:
+The simulation provided in this repository was used to create Figure 6 of this manuscript:
 
 **Zhai S., Otsuka S., Xu J., Clarke V. R. J., Tkatch T., Wokosin D., Xie Z., Tanimura A., Do H. T., Reidl C. T., Agarwal H. K., Ellis-Davies G. C. R., Silverman R. B., Contractor A. and Surmeier D. J.  Ca<sup>2+</sup>-dependent phosphodiesterase 1 regulates the plasticity of striatal spiny projection neuron glutamatergic synapses**
 
