@@ -196,6 +196,8 @@ I have provided both the `R` and equivalent `Python` code to reproduce the figur
 
 The analyses were conducted using `R` version 4.3.1 – `Beagle Scouts` which can be download [here](https://www.R-project.org/). 
 
+In addition, the code was tested on the latest version of `R` version 4.4.1 – `Race for Your Life`.
+
 Please refer to the `R analysis` directory for the code.
 
 The equivalent `Python` analyses can be performed using provided `Jupyter Notebook` entitled `Figure 6 analysis.ipynb` which uses the underlying `Python` functions located in `analysis_functions.py`.
