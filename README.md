@@ -613,7 +613,9 @@ Follow the installation instructions provided on the respective download pages.
 
 ## Virtual Environments
 
-The `environment.yml` file is configured for `NEURON` 8.2.4 and `Python` 3.9.16. Use this file to create a consistent environment for running the models.
+The `environment.yml` file is configured for `NEURON` 8.2.4 and `Python` 3.9.16. 
+
+Use this file to create a consistent environment for running the models.
 
 In brief:     
 
@@ -636,7 +638,9 @@ In brief:
   The environment will have the name given by the name key in the `YAML` file i.e. `neuron`.
 
 ## Updating `YAML` and conda environment
-The `environment.yml` file can be updated to the latest packages using the following code. There may be compatibility issues with some package updates so it's always a good idea to retain the original `environment.yml` file in case a rollback is required / troubleshooting etc.
+The `environment.yml` file can be updated to the latest packages using the following code. 
+
+There may be compatibility issues with some package updates so it's always a good idea to retain the original `environment.yml` file in case a rollback is required / troubleshooting etc.
 
 ## Useful `terminal` code
 
