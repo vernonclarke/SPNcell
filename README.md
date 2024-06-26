@@ -163,7 +163,7 @@ The following sections explain the initial set up required and instructions to c
 
    Windows (replace `YourUsername` with appropriate user name):
    ```bash
-   cd C:\Users\YourUsername\Repositories\documents\SPNcell
+   cd C:\Users\YourUsername\documents\Repositories\SPNcell
    conda activate neuron
    ```
 3. **Run `Jupyter Notebook`**
