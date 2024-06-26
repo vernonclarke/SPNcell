@@ -180,7 +180,7 @@ The following sections explain the initial set up required and instructions to c
 
    Choose a notebook to open (by clicking on any notebook - `*.ipynb`).
    
-   Ensure kernel is set to `Python` 3 (ipykernel).
+   Kernel should already be set to `Python (neuron)`.
 
    From kernel dropdown menu choose `Restart Run All` (if running again then it's good practice to run `Restart and Clear Output` first).
 
