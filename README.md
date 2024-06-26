@@ -558,7 +558,7 @@ Open the terminal and run:
 ```bash
 cd documents/Repositories/SPNcell
 conda activate neuron
-python -m ipykernel install --user --name `NEURON` --display-name "Python (neuron)"
+python -m ipykernel install --user --name neuron --display-name "Python (neuron)"
 jupyter notebook
 ```
 
