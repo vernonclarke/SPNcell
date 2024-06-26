@@ -190,9 +190,13 @@ The following sections explain the initial set up required and instructions to c
 
 ## Data Analysis
 
-The final analysis and figures presented in the manuscript were generated using `R`. I have provided both the `R` and equivalent `Python` code to reproduce the figures in the manuscript
+The final analysis and figures presented in the manuscript were generated using `R`. 
 
-The analyses were conducted using `R` version 4.3.1 – `Beagle Scouts` which can be download [here](https://www.R-project.org/). Please refer to the `R analysis` directory for the code.
+I have provided both the `R` and equivalent `Python` code to reproduce the figures in the manuscript
+
+The analyses were conducted using `R` version 4.3.1 – `Beagle Scouts` which can be download [here](https://www.R-project.org/). 
+
+Please refer to the `R analysis` directory for the code.
 
 The equivalent `Python` analyses can be performed using provided `Jupyter Notebook` entitled `Figure 6 analysis.ipynb` which uses the underlying `Python` functions located in `analysis_functions.py`.
 
