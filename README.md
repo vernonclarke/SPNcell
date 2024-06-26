@@ -120,7 +120,7 @@ The following sections explain the initial set up required and instructions to c
    conda list
    ```
 
-   I have included a no_builds version `environment_no_builds.yml`. I had to use this `*.yml` on an older `Macbook Pro`. I also had to use older versions of two packages (`_pytorch_select=0.1` not `_pytorch_select=0.2` and `torch==2.0.1` not `torch==2.3.0`) in order to create the `neuron` environment without errors.
+   I have included a no_builds version `environment_no_builds.yml`. I had to use this `*.yml` on an older `Macbook Pro`. In addition, I also had to use older versions of two packages (`_pytorch_select=0.1` not `_pytorch_select=0.2` and `torch==2.0.1` not `torch==2.3.0`) in order to create the `neuron` environment without errors.
 
    On Windows:
    ```bash
