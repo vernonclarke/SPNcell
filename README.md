@@ -8,7 +8,7 @@ The `NEURON` + `Python` model was built on top of the `striatal_SPN_lib` reposit
 
 [Lindroos R, Kotaleski JH. Predicting complex spikes in striatal projection neurons of the direct pathway following neuromodulation by acetylcholine and dopamine. Eur J Neurosci. 2020](https://doi.org/10.1111/ejn.14891)
 
-Their original model can be found here: [`modelDB`](https://senselab.med.yale.edu/ModelDB/ShowModel?model=266775&file=/lib/params_dMSN.json#tabs-2) or [`GitHub`](https://github.com/ModelDBRepository/266775)
+Their original model can be found here: [`modelDB`](https://modeldb.science/266775) or [`GitHub`](https://github.com/ModelDBRepository/266775)
 
 A version of this modified code has been published by Day et al., 2024:
 
